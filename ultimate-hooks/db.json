@@ -1,0 +1,59 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "pizza hut is life",
+      "id": 3
+    },
+    {
+      "content": "i eat pizza",
+      "id": 4
+    },
+    {
+      "content": "aaaaaa",
+      "id": 5
+    },
+    {
+      "content": "zfg is king",
+      "id": 6
+    },
+    {
+      "content": "htis one is fake",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "asd",
+      "number": "123",
+      "id": 3
+    },
+    {
+      "name": "my anm",
+      "number": "amsd",
+      "id": 4
+    },
+    {
+      "name": "tgus ie ",
+      "number": "sia gmi",
+      "id": 5
+    }
+  ]
+}
